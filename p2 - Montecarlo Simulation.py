@@ -8,7 +8,7 @@
 priority = 0
 
 #netacad email cth: 'abcd@gmail.com'
-email='apriliaerlitalisna@gmail.com'
+email='a@gmail.com'
  
 # copy-paste semua #Graded cells YANG SUDAH ANDA KERJAKAN di bawah ini
 
